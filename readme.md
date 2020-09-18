@@ -1,0 +1,1 @@
+Complete exercises of the deeplearning.ai Tensorflow Developer specialization in Jupyter notebooks
